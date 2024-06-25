@@ -1,5 +1,5 @@
 {
-	// More info about Features: https://containers.dev/features
+	// More info about Features: https://containers.dev/features esto es solo una prueba
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
 	"features": {},
 
